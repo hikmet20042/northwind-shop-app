@@ -4,8 +4,10 @@
 ```
 npx create-react-app northwind-app
 ```
-2.Delete src and public folders and add all items from this repository.
-3. Install npm packages.
+2.Delete src and public folders and add all items from this repository
+```
+```
+3. Install npm packages
 ```
 npm i reactstrap
 npm i bootstrap
